@@ -6,7 +6,7 @@ sites:
   - name: Findic WEB
     url: https://findic.cl
   - name: Findic API
-    url: hhttps://findic.cl/api/_ping
+    url: https://findic.cl/api/_ping
   
 
 status-website:
