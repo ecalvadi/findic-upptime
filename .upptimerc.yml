@@ -5,7 +5,8 @@ repo: findic-upptime # The name of this repository
 sites:
   - name: Findic WEB
     url: https://findic.cl
-
+  - name: Findic API
+    url: https://findic.cl/api/_ping
   
 
 status-website:
