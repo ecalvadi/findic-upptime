@@ -4,19 +4,19 @@
     "url": "https://findic.cl",
     "icon": "https://icons.duckduckgo.com/ip3/findic.cl.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 526,
-    "timeWeek": 628,
-    "timeMonth": 674,
+    "timeDay": 560,
+    "timeWeek": 624,
+    "timeMonth": 671,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2026-10-11": 0
+      "2026-10-11": 5
     }
   },
   {
